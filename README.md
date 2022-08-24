@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Sandi.</h1>
-<h3 align="center">I'm a professional full-stack developer working out of Toronto, Canada. I have a background in computer science and like to focus on backend technologies, but I am capable of working the entire stack.</h3>
+<h3>I'm a professional full-stack developer working out of Toronto, Canada. I have a background in computer science and like to focus on backend technologies, but I am capable of working the entire stack.</h3>
 
 - 🔭 I've built a live-streaming platform [Lich.tv](https://github.com/essemd/lich-tv)
 
