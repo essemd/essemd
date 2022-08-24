@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Sandi.</h1>
-<h3 align="center">I'm a professional full-stack developer working out of Toronto, Canada. I have a background in computer science and like to focus on backend technologies, but I am trained in frontend as well.</h3>
+<h3 align="center">I'm a professional full-stack developer working out of Toronto, Canada. I have a background in computer science and like to focus on backend technologies, but I am capable of working the entire stack.</h3>
 
 - 🔭 I've built a live-streaming platform [Lich.tv](https://github.com/essemd/lich-tv)
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/essemd?tab=repositories](https://github.com/essemd?tab=repositories)
 
-- 💬 Ask me about **full-stack development**
+- 💬 Ask me anything about **full-stack web development**
 
 - 📫 How to reach me **hivemindcoder@gmail.com**
 
