@@ -6,7 +6,7 @@
 
 - 🔭 I've built a live-streaming platform [Lich.tv](https://github.com/essemd/lich-tv)
 
-- 🌱 I’m currently learning about **Web3**
+- 🌱 I’m currently working on a companion app for the popular game **Heroes of the Storm**
 
 - 🔭 I also have experience in multiplayer browser game development [Project Jorgon](https://github.com/essemd/project-jorgon)
 
